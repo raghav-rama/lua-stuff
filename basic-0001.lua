@@ -5,6 +5,10 @@ for i = 1, 10 do
 	print(i)
 end
 
+function sub(a, b)
+    return a - b
+end
+
 function add(a, b)
 	return a + b
 end
